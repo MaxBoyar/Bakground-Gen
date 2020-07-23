@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: rgba(0, 0,0,.5);
+    font-size: 3em;
+    text-align: center;
+    letter-spacing: .5vw;
+    top: 15%;
+    background:linear-gradient(to right,rgb(140,227,221),rgb(240,86,86));
+    
+    
+}
+
+
+h3{
+    font: 300 1.3em 'Raleway',sans-serif;
+    letter-spacing: .2vw;
+}
+
+h4{
+    font-size: 1vw; 
+}
+
+p{
+    color: rgb(0, 0,0);
+    font: 100 0.5em 'Raleway',sans-serif; 
+    padding-top: 6em;
+    text-transform: none;
+}
